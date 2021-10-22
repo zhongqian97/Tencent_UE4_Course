@@ -61,6 +61,8 @@
 # Text files
 !*.txt
 !*.md
+!*.mp4
+!*.apk
 
 # Script files
 !*.bat
