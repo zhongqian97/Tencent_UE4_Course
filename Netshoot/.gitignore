@@ -204,11 +204,6 @@ enc_temp_folder/
 Intermediate/
 obj/
 
-# Add Content
-!/Content/*
-!/Config/*
-!/Source/*
-
 # Ignore any saved local files
 Saved/
 /Engine/Programs/MemoryProfiler2/**
@@ -237,3 +232,8 @@ Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/**
 
 # Ignore USD resources copied into Binaries directory at build time
 /Engine/Binaries/ThirdParty/USD/**
+
+# Add Content
+!/Content/*
+!/Config/*
+!/Source/*
