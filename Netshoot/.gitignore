@@ -206,6 +206,8 @@ obj/
 
 # Add Content
 !/Content/*
+!/Config/*
+!/Source/*
 
 # Ignore any saved local files
 Saved/
